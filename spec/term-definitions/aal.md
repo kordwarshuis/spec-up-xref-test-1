@@ -5,3 +5,5 @@
 ~ This is an addition, for testing purposes.
 
 ~ Another addition for testing.
+
+~ Third addition
