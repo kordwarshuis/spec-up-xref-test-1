@@ -7,4 +7,5 @@
 ~ Another addition for testing.
 
 ~ Third addition
-~ .
+
+~ Fourth addition
